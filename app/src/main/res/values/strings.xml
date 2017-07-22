@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Vexillopedia</string>
+    <string name="app_name" translatable="false">Vexillopedia</string>
+    <string name="search_flag_hint">Enter a text to search ...</string>
+    <string name="search_flag_button">Search</string>
 </resources>
